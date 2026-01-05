@@ -1,0 +1,2590 @@
+[
+  {
+    "danish": "om",
+    "english": "about"
+  },
+  {
+    "danish": "tilfældig",
+    "english": "accidental"
+  },
+  {
+    "danish": "en skuespiller",
+    "english": "an actor"
+  },
+  {
+    "danish": "adjektiv",
+    "english": "adjective"
+  },
+  {
+    "danish": "en voksen",
+    "english": "an adult"
+  },
+  {
+    "danish": "eftermiddag",
+    "english": "afternoon"
+  },
+  {
+    "danish": "alder",
+    "english": "age"
+  },
+  {
+    "danish": "luft",
+    "english": "air"
+  },
+  {
+    "danish": "et fly",
+    "english": "an airplane"
+  },
+  {
+    "danish": "en lufthavn",
+    "english": "an airport"
+  },
+  {
+    "danish": "levende",
+    "english": "alive"
+  },
+  {
+    "danish": "allerede",
+    "english": "already"
+  },
+  {
+    "danish": "et dyr",
+    "english": "an animal"
+  },
+  {
+    "danish": "en lejlighed",
+    "english": "an apartment"
+  },
+  {
+    "danish": "et æble",
+    "english": "an apple"
+  },
+  {
+    "danish": "april",
+    "english": "April"
+  },
+  {
+    "danish": "en arm",
+    "english": "an arm"
+  },
+  {
+    "danish": "en hær",
+    "english": "an army"
+  },
+  {
+    "danish": "kunst",
+    "english": "art"
+  },
+  {
+    "danish": "kunstig",
+    "english": "artificial"
+  },
+  {
+    "danish": "en kunstner",
+    "english": "an artist"
+  },
+  {
+    "danish": "et anfald",
+    "english": "an attack (sudden attack, often medical)"
+  },
+  {
+    "danish": "et angreb",
+    "english": "an attack (physical or military assult)"
+  },
+  {
+    "danish": "august",
+    "english": "August"
+  },
+  {
+    "danish": "en forfatter",
+    "english": "an author"
+  },
+  {
+    "danish": "en baby",
+    "english": "baby"
+  },
+  {
+    "danish": "en ryg",
+    "english": "a back (body)"
+  },
+  {
+    "danish": "igen",
+    "english": "back (direction)"
+  },
+  {
+    "danish": "gal",
+    "english": "bad"
+  },
+  {
+    "danish": "en taske",
+    "english": "a bag"
+  },
+  {
+    "danish": "et bageri",
+    "english": "a bakery"
+  },
+  {
+    "danish": "bag",
+    "english": "bake (verb)"
+  },
+  {
+    "danish": "en bold",
+    "english": "a ball"
+  },
+  {
+    "danish": "en banan",
+    "english": "a banana"
+  },
+  {
+    "danish": "et band",
+    "english": "a band (music)"
+  },
+  {
+    "danish": "en bank",
+    "english": "a bank"
+  },
+  {
+    "danish": "en bar",
+    "english": "a bar (location)"
+  },
+  {
+    "danish": "et badeværelse",
+    "english": "a bathroom"
+  },
+  {
+    "danish": "en strand",
+    "english": "a beach"
+  },
+  {
+    "danish": "et skæg",
+    "english": "a beard"
+  },
+  {
+    "danish": "at slå",
+    "english": "to beat"
+  },
+  {
+    "danish": "smuk",
+    "english": "beautiful"
+  },
+  {
+    "danish": "en seng",
+    "english": "a bed"
+  },
+  {
+    "danish": "et soveværelse",
+    "english": "a bedroom"
+  },
+  {
+    "danish": "kød",
+    "english": "beef"
+  },
+  {
+    "danish": "en øl",
+    "english": "a beer"
+  },
+  {
+    "danish": "at bøje",
+    "english": "bend"
+  },
+  {
+    "danish": "en drik",
+    "english": "beverage"
+  },
+  {
+    "danish": "en cykel",
+    "english": "a bicycle"
+  },
+  {
+    "danish": "stor",
+    "english": "big/large"
+  },
+  {
+    "danish": "en regning",
+    "english": "a bill"
+  },
+  {
+    "danish": "milliard",
+    "english": "billion"
+  },
+  {
+    "danish": "en fugl",
+    "english": "a bird"
+  },
+  {
+    "danish": "sort",
+    "english": "black"
+  },
+  {
+    "danish": "blind",
+    "english": "blind (adjective)"
+  },
+  {
+    "danish": "(et) blod",
+    "english": "blood"
+  },
+  {
+    "danish": "blå",
+    "english": "blue"
+  },
+  {
+    "danish": "en båd",
+    "english": "a boat"
+  },
+  {
+    "danish": "en krop",
+    "english": "a body"
+  },
+  {
+    "danish": "en knogle",
+    "english": "a bone"
+  },
+  {
+    "danish": "en bog",
+    "english": "a book"
+  },
+  {
+    "danish": "en flaske",
+    "english": "a bottle"
+  },
+  {
+    "danish": "(en) bund",
+    "english": "bottom"
+  },
+  {
+    "danish": "an æske",
+    "english": "a box"
+  },
+  {
+    "danish": "en dreng",
+    "english": "a boy"
+  },
+  {
+    "danish": "en hjerne",
+    "english": "a brain"
+  },
+  {
+    "danish": "et brød",
+    "english": "a bread"
+  },
+  {
+    "danish": "en pause",
+    "english": "a break"
+  },
+  {
+    "danish": "at brække",
+    "english": "to break (physical things like bones)"
+  },
+  {
+    "danish": "at bryde",
+    "english": "to break (things like laws, silence, code)"
+  },
+  {
+    "danish": "( en) morgenmad",
+    "english": "breakfast"
+  },
+  {
+    "danish": "en bro",
+    "english": "a bridge"
+  },
+  {
+    "danish": "en bror",
+    "english": "a brother"
+  },
+  {
+    "danish": "brun",
+    "english": "brown"
+  },
+  {
+    "danish": "at bygge",
+    "english": "to build"
+  },
+  {
+    "danish": "en bygning",
+    "english": "a building"
+  },
+  {
+    "danish": "en bolle",
+    "english": "a bun"
+  },
+  {
+    "danish": "at brænde",
+    "english": "to burn"
+  },
+  {
+    "danish": "en bus",
+    "english": "a bus"
+  },
+  {
+    "danish": "at købe",
+    "english": "to buy"
+  },
+  {
+    "danish": "farvel",
+    "english": "bye"
+  },
+  {
+    "danish": "en kage",
+    "english": "a cake"
+  },
+  {
+    "danish": "at ringe",
+    "english": "to call"
+  },
+  {
+    "danish": "et kamera",
+    "english": "a camera"
+  },
+  {
+    "danish": "en lejr",
+    "english": "a camp"
+  },
+  {
+    "danish": "en bil",
+    "english": "a car"
+  },
+  {
+    "danish": "et kort",
+    "english": "a card"
+  },
+  {
+    "danish": "at bære",
+    "english": "to carry"
+  },
+  {
+    "danish": "en kat",
+    "english": "a cat"
+  },
+  {
+    "danish": "at fange",
+    "english": "to catch"
+  },
+  {
+    "danish": "et loft",
+    "english": "a ceiling"
+  },
+  {
+    "danish": "en mobile",
+    "english": "a cell phone"
+  },
+  {
+    "danish": "en centimeter",
+    "english": "a centimeter"
+  },
+  {
+    "danish": "en stol",
+    "english": "a chair"
+  },
+  {
+    "danish": "billig",
+    "english": "cheap"
+  },
+  {
+    "danish": "(en) ost",
+    "english": "cheese"
+  },
+  {
+    "danish": "en kylling",
+    "english": "a chicken"
+  },
+  {
+    "danish": "et barn",
+    "english": "a child"
+  },
+  {
+    "danish": "en kirke",
+    "english": "a church"
+  },
+  {
+    "danish": "en cirkel",
+    "english": "a circle"
+  },
+  {
+    "danish": "en by",
+    "english": "a city"
+  },
+  {
+    "danish": "(et) ler",
+    "english": "clay"
+  },
+  {
+    "danish": "rent",
+    "english": "clean (adjective)"
+  },
+  {
+    "danish": "at rengøre",
+    "english": "to clean"
+  },
+  {
+    "danish": "et ur",
+    "english": "a clock"
+  },
+  {
+    "danish": "at lukke",
+    "english": "to close"
+  },
+  {
+    "danish": "(et) tøj",
+    "english": "clothing"
+  },
+  {
+    "danish": "en klub",
+    "english": "a club"
+  },
+  {
+    "danish": "en frakke",
+    "english": "a coat"
+  },
+  {
+    "danish": "en kaffe",
+    "english": "a coffee"
+  },
+  {
+    "danish": "kold",
+    "english": "cold"
+  },
+  {
+    "danish": "en farve",
+    "english": "a color"
+  },
+  {
+    "danish": "farverig",
+    "english": "colorful"
+  },
+  {
+    "danish": "en computer",
+    "english": "a computer"
+  },
+  {
+    "danish": "en konsonant",
+    "english": "a consonant"
+  },
+  {
+    "danish": "en kontrakt",
+    "english": "a contract"
+  },
+  {
+    "danish": "at lave (mad)",
+    "english": "to cook"
+  },
+  {
+    "danish": "kølig",
+    "english": "cool (adjective)"
+  },
+  {
+    "danish": "cool / lækker (hot, attractive)  / svedig (sick)",
+    "english": "cool"
+  },
+  {
+    "danish": "(et) kobber",
+    "english": "copper"
+  },
+  {
+    "danish": "en majs",
+    "english": "a corn"
+  },
+  {
+    "danish": "et hjørne",
+    "english": "a corner"
+  },
+  {
+    "danish": "at tælle",
+    "english": "to count"
+  },
+  {
+    "danish": "et land",
+    "english": "a country"
+  },
+  {
+    "danish": "en domstol",
+    "english": "a legal court"
+  },
+  {
+    "danish": "til retten",
+    "english": "to court"
+  },
+  {
+    "danish": "en ko",
+    "english": "a cow"
+  },
+  {
+    "danish": "en menneskemængde",
+    "english": "a crowd"
+  },
+  {
+    "danish": "at græde",
+    "english": "to cry"
+  },
+  {
+    "danish": "en kop",
+    "english": "a cup"
+  },
+  {
+    "danish": "buet",
+    "english": "curved"
+  },
+  {
+    "danish": "at skære",
+    "english": "to cut"
+  },
+  {
+    "danish": "at danse",
+    "english": "to dance"
+  },
+  {
+    "danish": "mørk",
+    "english": "dark"
+  },
+  {
+    "danish": "en dato",
+    "english": "a date (May 7)"
+  },
+  {
+    "danish": "en date",
+    "english": "a date (romantic)"
+  },
+  {
+    "danish": "en datter",
+    "english": "a daughter"
+  },
+  {
+    "danish": "en dag",
+    "english": "a day"
+  },
+  {
+    "danish": "død",
+    "english": "dead"
+  },
+  {
+    "danish": "døv",
+    "english": "deaf"
+  },
+  {
+    "danish": "død",
+    "english": "death"
+  },
+  {
+    "danish": "december",
+    "english": "December"
+  },
+  {
+    "danish": "dyb",
+    "english": "deep"
+  },
+  {
+    "danish": "en dessert",
+    "english": "a dessert"
+  },
+  {
+    "danish": "en diamant",
+    "english": "a diamond"
+  },
+  {
+    "danish": "at dø",
+    "english": "to die"
+  },
+  {
+    "danish": "at grave",
+    "english": "to dig"
+  },
+  {
+    "danish": "(en) aftensmad",
+    "english": "dinner"
+  },
+  {
+    "danish": "(en) retning",
+    "english": "direction"
+  },
+  {
+    "danish": "beskidt",
+    "english": "dirty (generally dirty)"
+  },
+  {
+    "danish": "beskidt",
+    "english": "dirty (filthy, grubby)"
+  },
+  {
+    "danish": "en sygdom",
+    "english": "a disease"
+  },
+  {
+    "danish": "en læge",
+    "english": "a doctor"
+  },
+  {
+    "danish": "en hund",
+    "english": "a dog"
+  },
+  {
+    "danish": "en dollar",
+    "english": "a dollar"
+  },
+  {
+    "danish": "en dør",
+    "english": "a door"
+  },
+  {
+    "danish": "en prik",
+    "english": "a dot"
+  },
+  {
+    "danish": "ned",
+    "english": "down"
+  },
+  {
+    "danish": "at tegne",
+    "english": "to draw"
+  },
+  {
+    "danish": "en drøm",
+    "english": "a  dream"
+  },
+  {
+    "danish": "at drømme",
+    "english": "to dream"
+  },
+  {
+    "danish": "en kjole",
+    "english": "a dress"
+  },
+  {
+    "danish": "at drikke",
+    "english": "to drink"
+  },
+  {
+    "danish": "en drink",
+    "english": "a drink"
+  },
+  {
+    "danish": "at køre",
+    "english": "to drive"
+  },
+  {
+    "danish": "et lægemiddel",
+    "english": "a drug"
+  },
+  {
+    "danish": "at tørre",
+    "english": "to dry"
+  },
+  {
+    "danish": "(et) støv",
+    "english": "dust"
+  },
+  {
+    "danish": "at støve",
+    "english": "to dust"
+  },
+  {
+    "danish": "et øre",
+    "english": "an ear"
+  },
+  {
+    "danish": "Jorden",
+    "english": "Earth"
+  },
+  {
+    "danish": "øst",
+    "english": "east"
+  },
+  {
+    "danish": "at spise",
+    "english": "to eat"
+  },
+  {
+    "danish": "en kant",
+    "english": "an edge"
+  },
+  {
+    "danish": "et æg",
+    "english": "an egg"
+  },
+  {
+    "danish": "otte",
+    "english": "eight"
+  },
+  {
+    "danish": "atten",
+    "english": "eighteen"
+  },
+  {
+    "danish": "firs",
+    "english": "eighty"
+  },
+  {
+    "danish": "et valg",
+    "english": "an election"
+  },
+  {
+    "danish": "(en) elektronik",
+    "english": "electronics"
+  },
+  {
+    "danish": "elleve",
+    "english": "eleven"
+  },
+  {
+    "danish": "(en) energi",
+    "english": "energy"
+  },
+  {
+    "danish": "en motor",
+    "english": "an engine"
+  },
+  {
+    "danish": "aften",
+    "english": "evening"
+  },
+  {
+    "danish": "motion",
+    "english": "exercise (noun)"
+  },
+  {
+    "danish": "at motionere",
+    "english": "to exercise"
+  },
+  {
+    "danish": "dyr",
+    "english": "expensive"
+  },
+  {
+    "danish": "at eksplodere",
+    "english": "to explode"
+  },
+  {
+    "danish": "et øje",
+    "english": "an eye"
+  },
+  {
+    "danish": "et ansigt",
+    "english": "a face"
+  },
+  {
+    "danish": "efterår",
+    "english": "fall (season)"
+  },
+  {
+    "danish": "at falde",
+    "english": "to fall"
+  },
+  {
+    "danish": "en familie",
+    "english": "a family"
+  },
+  {
+    "danish": "berømt",
+    "english": "famous"
+  },
+  {
+    "danish": "en ventilator",
+    "english": "fan (electric)"
+  },
+  {
+    "danish": "en fan",
+    "english": "fan (sport)"
+  },
+  {
+    "danish": "en gård",
+    "english": "a farm"
+  },
+  {
+    "danish": "hurtig",
+    "english": "fast"
+  },
+  {
+    "danish": "en far",
+    "english": "a father"
+  },
+  {
+    "danish": "februar",
+    "english": "February"
+  },
+  {
+    "danish": "at fodre",
+    "english": "to feed"
+  },
+  {
+    "danish": "en kvinde",
+    "english": "a female (woman)"
+  },
+  {
+    "danish": "femten",
+    "english": "fifteen"
+  },
+  {
+    "danish": "femte",
+    "english": "fifth (5th)"
+  },
+  {
+    "danish": "halvtreds",
+    "english": "fifty"
+  },
+  {
+    "danish": "at kæmpe",
+    "english": "to fight"
+  },
+  {
+    "danish": "at finde",
+    "english": "to find"
+  },
+  {
+    "danish": "en finger",
+    "english": "a finger"
+  },
+  {
+    "danish": "en brand",
+    "english": "a fire"
+  },
+  {
+    "danish": "først",
+    "english": "first (1st)"
+  },
+  {
+    "danish": "en fisk",
+    "english": "a fish"
+  },
+  {
+    "danish": "fem",
+    "english": "five"
+  },
+  {
+    "danish": "flad",
+    "english": "flat (adjective)"
+  },
+  {
+    "danish": "et gulv",
+    "english": "a floor"
+  },
+  {
+    "danish": "en blomst",
+    "english": "a flower"
+  },
+  {
+    "danish": "at flyve",
+    "english": "to fly"
+  },
+  {
+    "danish": "at følge",
+    "english": "to follow"
+  },
+  {
+    "danish": "(en) mad",
+    "english": "food"
+  },
+  {
+    "danish": "en fod",
+    "english": "a foot (body part)"
+  },
+  {
+    "danish": "en skov",
+    "english": "a forest"
+  },
+  {
+    "danish": "en gaffel",
+    "english": "a fork"
+  },
+  {
+    "danish": "fyrre",
+    "english": "forty"
+  },
+  {
+    "danish": "fire",
+    "english": "four"
+  },
+  {
+    "danish": "fjorten",
+    "english": "fourteen"
+  },
+  {
+    "danish": "fjerde",
+    "english": "fourth (4th)"
+  },
+  {
+    "danish": "fredag",
+    "english": "Friday"
+  },
+  {
+    "danish": "en ven",
+    "english": "a friend"
+  },
+  {
+    "danish": "front",
+    "english": "front"
+  },
+  {
+    "danish": "et spil",
+    "english": "a game"
+  },
+  {
+    "danish": "en have",
+    "english": "a garden"
+  },
+  {
+    "danish": "(en) benzin",
+    "english": "gasoline"
+  },
+  {
+    "danish": "en gave",
+    "english": "a gift"
+  },
+  {
+    "danish": "en pige",
+    "english": "a girl"
+  },
+  {
+    "danish": "glas",
+    "english": "glass"
+  },
+  {
+    "danish": "at gå",
+    "english": "to go"
+  },
+  {
+    "danish": "(en) gud",
+    "english": "God"
+  },
+  {
+    "danish": "guld",
+    "english": "gold"
+  },
+  {
+    "danish": "god",
+    "english": "good"
+  },
+  {
+    "danish": "(en) morfar",
+    "english": "grandfather (mother's father)"
+  },
+  {
+    "danish": "(en) farfar",
+    "english": "grandfather (father's father)"
+  },
+  {
+    "danish": "(en) mormor",
+    "english": "grandmother (mother's mother)"
+  },
+  {
+    "danish": "(en) farmor",
+    "english": "grandmother (father's mother)"
+  },
+  {
+    "danish": "(et) græs",
+    "english": "grass"
+  },
+  {
+    "danish": "grå",
+    "english": "gray"
+  },
+  {
+    "danish": "grøn",
+    "english": "green"
+  },
+  {
+    "danish": "(en) jord",
+    "english": "ground"
+  },
+  {
+    "danish": "at vokse",
+    "english": "to grow"
+  },
+  {
+    "danish": "en pistol",
+    "english": "a gun"
+  },
+  {
+    "danish": "(et) hår",
+    "english": "hair"
+  },
+  {
+    "danish": "halv",
+    "english": "half"
+  },
+  {
+    "danish": "en hånd",
+    "english": "a hand"
+  },
+  {
+    "danish": "at hænge",
+    "english": "to hang"
+  },
+  {
+    "danish": "glad",
+    "english": "happy (about something; temporary)"
+  },
+  {
+    "danish": "lykkelig",
+    "english": "happy (deeper, bliss, state of fulfillment)"
+  },
+  {
+    "danish": "svær",
+    "english": "hard (task)"
+  },
+  {
+    "danish": "hård",
+    "english": "hard (consistency)"
+  },
+  {
+    "danish": "en hat",
+    "english": "a hat"
+  },
+  {
+    "danish": "han",
+    "english": "he"
+  },
+  {
+    "danish": "et hoved",
+    "english": "a head"
+  },
+  {
+    "danish": "sund",
+    "english": "healthy"
+  },
+  {
+    "danish": "at høre",
+    "english": "to hear"
+  },
+  {
+    "danish": "et hjerte",
+    "english": "a heart"
+  },
+  {
+    "danish": "varme",
+    "english": "heat (noun)"
+  },
+  {
+    "danish": "(en) himmel",
+    "english": "heaven"
+  },
+  {
+    "danish": "tung",
+    "english": "heavy"
+  },
+  {
+    "danish": "helvede",
+    "english": "hell"
+  },
+  {
+    "danish": "høj",
+    "english": "high"
+  },
+  {
+    "danish": "en bakke",
+    "english": "a hill"
+  },
+  {
+    "danish": "et hul",
+    "english": "a hole"
+  },
+  {
+    "danish": "(et) hjem",
+    "english": "home"
+  },
+  {
+    "danish": "en hest",
+    "english": "a horse"
+  },
+  {
+    "danish": "et hospital",
+    "english": "a hospital"
+  },
+  {
+    "danish": "varm",
+    "english": "hot"
+  },
+  {
+    "danish": "et hotel",
+    "english": "a hotel"
+  },
+  {
+    "danish": "(en) time",
+    "english": "hour"
+  },
+  {
+    "danish": "et hus",
+    "english": "a house"
+  },
+  {
+    "danish": "et menneske",
+    "english": "a human"
+  },
+  {
+    "danish": "hundrede",
+    "english": "hundred"
+  },
+  {
+    "danish": "mand",
+    "english": "husband"
+  },
+  {
+    "danish": "Jeg",
+    "english": "I"
+  },
+  {
+    "danish": "(en) is",
+    "english": "ice"
+  },
+  {
+    "danish": "et billede",
+    "english": "an image"
+  },
+  {
+    "danish": "en skade",
+    "english": "an injury"
+  },
+  {
+    "danish": "indenfor",
+    "english": "inside"
+  },
+  {
+    "danish": "et instrument",
+    "english": "an instrument (musical)"
+  },
+  {
+    "danish": "en ø",
+    "english": "an island"
+  },
+  {
+    "danish": "det",
+    "english": "it"
+  },
+  {
+    "danish": "januar",
+    "english": "January"
+  },
+  {
+    "danish": "(en) jeans",
+    "english": "jeans"
+  },
+  {
+    "danish": "et job",
+    "english": "a job"
+  },
+  {
+    "danish": "en juice / saft",
+    "english": "a juice"
+  },
+  {
+    "danish": "juli",
+    "english": "July"
+  },
+  {
+    "danish": "at hoppe",
+    "english": "to jump"
+  },
+  {
+    "danish": "juni",
+    "english": "June"
+  },
+  {
+    "danish": "en nøgle",
+    "english": "a key"
+  },
+  {
+    "danish": "at dræbe",
+    "english": "to kill"
+  },
+  {
+    "danish": "kilogram",
+    "english": "kilogram"
+  },
+  {
+    "danish": "en konge",
+    "english": "a king"
+  },
+  {
+    "danish": "at kysse",
+    "english": "to kiss"
+  },
+  {
+    "danish": "et kys",
+    "english": "a kiss"
+  },
+  {
+    "danish": "et køkken",
+    "english": "a kitchen"
+  },
+  {
+    "danish": "et knæ",
+    "english": "a knee"
+  },
+  {
+    "danish": "en kniv",
+    "english": "a knife"
+  },
+  {
+    "danish": "en sø",
+    "english": "a lake"
+  },
+  {
+    "danish": "en lampe",
+    "english": "a lamp"
+  },
+  {
+    "danish": "bærbar computer",
+    "english": "a laptop"
+  },
+  {
+    "danish": "at grine",
+    "english": "to laugh"
+  },
+  {
+    "danish": "en latter",
+    "english": "laughter"
+  },
+  {
+    "danish": "en advokat",
+    "english": "a lawyer"
+  },
+  {
+    "danish": "et blad",
+    "english": "a leaf"
+  },
+  {
+    "danish": "at lære",
+    "english": "to learn"
+  },
+  {
+    "danish": "venstre",
+    "english": "left (direction)"
+  },
+  {
+    "danish": "et ben",
+    "english": "a leg"
+  },
+  {
+    "danish": "en citron",
+    "english": "a lemon"
+  },
+  {
+    "danish": "et brev",
+    "english": "a letter"
+  },
+  {
+    "danish": "et bibliotek",
+    "english": "a library"
+  },
+  {
+    "danish": "at ligge ned",
+    "english": "to lie down"
+  },
+  {
+    "danish": "at løfte",
+    "english": "to lift"
+  },
+  {
+    "danish": "lys",
+    "english": "light (vs dark)"
+  },
+  {
+    "danish": "let",
+    "english": "light (vs heavy)"
+  },
+  {
+    "danish": "et lys",
+    "english": "light (noun)"
+  },
+  {
+    "danish": "læber",
+    "english": "lips"
+  },
+  {
+    "danish": "at lytte",
+    "english": "to listen"
+  },
+  {
+    "danish": "en placering",
+    "english": "a location"
+  },
+  {
+    "danish": "en lås",
+    "english": "a lock"
+  },
+  {
+    "danish": "at låse",
+    "english": "to lock"
+  },
+  {
+    "danish": "lang",
+    "english": "long"
+  },
+  {
+    "danish": "løs",
+    "english": "loose"
+  },
+  {
+    "danish": "at tabe",
+    "english": "lose (verb)"
+  },
+  {
+    "danish": "højt",
+    "english": "loud"
+  },
+  {
+    "danish": "at elske",
+    "english": "to love"
+  },
+  {
+    "danish": "kærlighed",
+    "english": "love (noun)"
+  },
+  {
+    "danish": "lav",
+    "english": "low"
+  },
+  {
+    "danish": "frokost",
+    "english": "lunch"
+  },
+  {
+    "danish": "et magasin",
+    "english": "a magazine"
+  },
+  {
+    "danish": "en mand",
+    "english": "a male (man)"
+  },
+  {
+    "danish": "en leder",
+    "english": "a manager"
+  },
+  {
+    "danish": "et kort",
+    "english": "a map"
+  },
+  {
+    "danish": "marts",
+    "english": "March"
+  },
+  {
+    "danish": "et marked",
+    "english": "a market"
+  },
+  {
+    "danish": "ægteskab",
+    "english": "marriage"
+  },
+  {
+    "danish": "at gifte sig",
+    "english": "to marry"
+  },
+  {
+    "danish": "at smelte",
+    "english": "to melt"
+  },
+  {
+    "danish": "metal",
+    "english": "metal"
+  },
+  {
+    "danish": "en måler",
+    "english": "a meter"
+  },
+  {
+    "danish": "mælk",
+    "english": "milk"
+  },
+  {
+    "danish": "million",
+    "english": "million"
+  },
+  {
+    "danish": "minut",
+    "english": "minute"
+  },
+  {
+    "danish": "at blande",
+    "english": "to mix"
+  },
+  {
+    "danish": "at røre",
+    "english": "to stir"
+  },
+  {
+    "danish": "mandag",
+    "english": "Monday"
+  },
+  {
+    "danish": "(en) penge",
+    "english": "money"
+  },
+  {
+    "danish": "måned",
+    "english": "month"
+  },
+  {
+    "danish": "måne",
+    "english": "moon"
+  },
+  {
+    "danish": "(en) morgen",
+    "english": "morning"
+  },
+  {
+    "danish": "en mor",
+    "english": "a mother"
+  },
+  {
+    "danish": "et bjerg",
+    "english": "a mountain"
+  },
+  {
+    "danish": "en mus",
+    "english": "a mouse"
+  },
+  {
+    "danish": "en mund",
+    "english": "a mouth"
+  },
+  {
+    "danish": "en film",
+    "english": "a movie"
+  },
+  {
+    "danish": "et mord",
+    "english": "a murder"
+  },
+  {
+    "danish": "at myrde",
+    "english": "to murder"
+  },
+  {
+    "danish": "musik",
+    "english": "music"
+  },
+  {
+    "danish": "smal",
+    "english": "narrow"
+  },
+  {
+    "danish": "natur",
+    "english": "nature"
+  },
+  {
+    "danish": "en hals",
+    "english": "a neck"
+  },
+  {
+    "danish": "en nål",
+    "english": "a needle"
+  },
+  {
+    "danish": "en nabo",
+    "english": "a neighbor"
+  },
+  {
+    "danish": "et netværk",
+    "english": "a network"
+  },
+  {
+    "danish": "ny",
+    "english": "new"
+  },
+  {
+    "danish": "et spædbarn",
+    "english": "newborn (baby)"
+  },
+  {
+    "danish": "en avis",
+    "english": "a newspaper"
+  },
+  {
+    "danish": "pæn",
+    "english": "nice"
+  },
+  {
+    "danish": "nat",
+    "english": "night"
+  },
+  {
+    "danish": "ni",
+    "english": "nine"
+  },
+  {
+    "danish": "nitten",
+    "english": "nineteen"
+  },
+  {
+    "danish": "halvfems",
+    "english": "ninety"
+  },
+  {
+    "danish": "nej",
+    "english": "no"
+  },
+  {
+    "danish": "nord",
+    "english": "north"
+  },
+  {
+    "danish": "en næse",
+    "english": "a nose"
+  },
+  {
+    "danish": "en note",
+    "english": "a note (on paper)"
+  },
+  {
+    "danish": "november",
+    "english": "November"
+  },
+  {
+    "danish": "nuklear",
+    "english": "nuclear"
+  },
+  {
+    "danish": "et tal",
+    "english": "a number"
+  },
+  {
+    "danish": "et hav",
+    "english": "an ocean"
+  },
+  {
+    "danish": "gammel",
+    "english": "old (vs young)"
+  },
+  {
+    "danish": "en / et",
+    "english": "one"
+  },
+  {
+    "danish": "at åbne",
+    "english": "to open"
+  },
+  {
+    "danish": "orange",
+    "english": "orange (color)"
+  },
+  {
+    "danish": "en appelsin",
+    "english": "orange (food)"
+  },
+  {
+    "danish": "uden for",
+    "english": "outside"
+  },
+  {
+    "danish": "en side",
+    "english": "a page"
+  },
+  {
+    "danish": "(en) smerte",
+    "english": "pain"
+  },
+  {
+    "danish": "at smerte",
+    "english": "to cause pain"
+  },
+  {
+    "danish": "(en) maling",
+    "english": "paint"
+  },
+  {
+    "danish": "at male",
+    "english": "to paint"
+  },
+  {
+    "danish": "bukser",
+    "english": "pants"
+  },
+  {
+    "danish": "(et) papir",
+    "english": "paper"
+  },
+  {
+    "danish": "en forælder",
+    "english": "a parent"
+  },
+  {
+    "danish": "en park",
+    "english": "a park"
+  },
+  {
+    "danish": "at parkere",
+    "english": "to park"
+  },
+  {
+    "danish": "at bestå",
+    "english": "to pass"
+  },
+  {
+    "danish": "en patient",
+    "english": "a patient"
+  },
+  {
+    "danish": "tålmodig",
+    "english": "patient (adjective)"
+  },
+  {
+    "danish": "et mønster",
+    "english": "a pattern"
+  },
+  {
+    "danish": "at betale",
+    "english": "to pay"
+  },
+  {
+    "danish": "(en) fred",
+    "english": "peace"
+  },
+  {
+    "danish": "en pen",
+    "english": "a pen"
+  },
+  {
+    "danish": "en blyant",
+    "english": "a pencil"
+  },
+  {
+    "danish": "en person",
+    "english": "a person"
+  },
+  {
+    "danish": "et apotek",
+    "english": "a pharmacy"
+  },
+  {
+    "danish": "et fotografi",
+    "english": "a photograph"
+  },
+  {
+    "danish": "et stykke",
+    "english": "a piece"
+  },
+  {
+    "danish": "en gris",
+    "english": "a pig"
+  },
+  {
+    "danish": "en tallerken",
+    "english": "a plate"
+  },
+  {
+    "danish": "at spille",
+    "english": "to play"
+  },
+  {
+    "danish": "en spiller",
+    "english": "a player"
+  },
+  {
+    "danish": "en lomme",
+    "english": "a pocket"
+  },
+  {
+    "danish": "giftig",
+    "english": "poisonous"
+  },
+  {
+    "danish": "at forgifte",
+    "english": "to poison"
+  },
+  {
+    "danish": "(et) politi",
+    "english": "police"
+  },
+  {
+    "danish": "en pool",
+    "english": "a pool"
+  },
+  {
+    "danish": "dårlig",
+    "english": "poor"
+  },
+  {
+    "danish": "svinekød",
+    "english": "pork"
+  },
+  {
+    "danish": "at bede",
+    "english": "to pray"
+  },
+  {
+    "danish": "en præsident",
+    "english": "a president"
+  },
+  {
+    "danish": "en pris",
+    "english": "a price"
+  },
+  {
+    "danish": "en præst",
+    "english": "a priest"
+  },
+  {
+    "danish": "en prins",
+    "english": "a prince"
+  },
+  {
+    "danish": "en prinsesse",
+    "english": "a princess"
+  },
+  {
+    "danish": "et fængsel",
+    "english": "a prison"
+  },
+  {
+    "danish": "et program",
+    "english": "a program"
+  },
+  {
+    "danish": "at trække",
+    "english": "to pull"
+  },
+  {
+    "danish": "at skubbe",
+    "english": "to push"
+  },
+  {
+    "danish": "at tage på",
+    "english": "to put on"
+  },
+  {
+    "danish": "en dronning",
+    "english": "a queen"
+  },
+  {
+    "danish": "stille",
+    "english": "quiet"
+  },
+  {
+    "danish": "etnicite or race",
+    "english": "race (ethnicity)"
+  },
+  {
+    "danish": "et løb",
+    "english": "a race (sport)"
+  },
+  {
+    "danish": "en radio",
+    "english": "a radio"
+  },
+  {
+    "danish": "(en) regn",
+    "english": "rain"
+  },
+  {
+    "danish": "at regne",
+    "english": "to rain"
+  },
+  {
+    "danish": "rød",
+    "english": "red"
+  },
+  {
+    "danish": "(en) religion",
+    "english": "religion"
+  },
+  {
+    "danish": "en reporter",
+    "english": "a reporter"
+  },
+  {
+    "danish": "en restaurant",
+    "english": "a restaurant"
+  },
+  {
+    "danish": "(en) ris",
+    "english": "rice"
+  },
+  {
+    "danish": "rig",
+    "english": "rich"
+  },
+  {
+    "danish": "højre",
+    "english": "right (direction)"
+  },
+  {
+    "danish": "en ring",
+    "english": "a ring"
+  },
+  {
+    "danish": "en flod",
+    "english": "a river"
+  },
+  {
+    "danish": "en vej",
+    "english": "a road"
+  },
+  {
+    "danish": "et tag",
+    "english": "a roof"
+  },
+  {
+    "danish": "et værelse",
+    "english": "a room (in a house)"
+  },
+  {
+    "danish": "en rod",
+    "english": "a root"
+  },
+  {
+    "danish": "at løbe",
+    "english": "to run"
+  },
+  {
+    "danish": "sørgelig",
+    "english": "sad"
+  },
+  {
+    "danish": "(et) salt",
+    "english": "salt"
+  },
+  {
+    "danish": "(et) sand",
+    "english": "sand"
+  },
+  {
+    "danish": "lørdag",
+    "english": "Saturday"
+  },
+  {
+    "danish": "en skole",
+    "english": "a school"
+  },
+  {
+    "danish": "videnskab",
+    "english": "science"
+  },
+  {
+    "danish": "en skærm",
+    "english": "a screen"
+  },
+  {
+    "danish": "et hav",
+    "english": "a sea"
+  },
+  {
+    "danish": "en årstid",
+    "english": "a season"
+  },
+  {
+    "danish": "anden",
+    "english": "second (2nd)"
+  },
+  {
+    "danish": "et sekund",
+    "english": "a second (time)"
+  },
+  {
+    "danish": "en sekretær",
+    "english": "a secretary"
+  },
+  {
+    "danish": "at se",
+    "english": "to see"
+  },
+  {
+    "danish": "en frø",
+    "english": "a seed"
+  },
+  {
+    "danish": "at sælge",
+    "english": "to sell"
+  },
+  {
+    "danish": "september",
+    "english": "September"
+  },
+  {
+    "danish": "syv",
+    "english": "seven"
+  },
+  {
+    "danish": "sytten",
+    "english": "seventeen"
+  },
+  {
+    "danish": "halvfjerds",
+    "english": "seventy"
+  },
+  {
+    "danish": "køn",
+    "english": "sex (gender)"
+  },
+  {
+    "danish": "samleje",
+    "english": "sex (the act)"
+  },
+  {
+    "danish": "at ryste",
+    "english": "to shake"
+  },
+  {
+    "danish": "lavvandet",
+    "english": "shallow"
+  },
+  {
+    "danish": "hun",
+    "english": "she"
+  },
+  {
+    "danish": "et skib",
+    "english": "a ship"
+  },
+  {
+    "danish": "at sende",
+    "english": "to ship"
+  },
+  {
+    "danish": "en skjorte",
+    "english": "a shirt"
+  },
+  {
+    "danish": "(en) sko",
+    "english": "shoes"
+  },
+  {
+    "danish": "at skyde",
+    "english": "to shoot (a gun)"
+  },
+  {
+    "danish": "kort",
+    "english": "short (vs long and tall)"
+  },
+  {
+    "danish": "en skulder",
+    "english": "a shoulder"
+  },
+  {
+    "danish": "syg",
+    "english": "sick"
+  },
+  {
+    "danish": "siden",
+    "english": "side"
+  },
+  {
+    "danish": "et tegn",
+    "english": "a sign"
+  },
+  {
+    "danish": "at underskrive",
+    "english": "to sign"
+  },
+  {
+    "danish": "sølv",
+    "english": "silver"
+  },
+  {
+    "danish": "at synge",
+    "english": "to sing"
+  },
+  {
+    "danish": "en søster",
+    "english": "a sister"
+  },
+  {
+    "danish": "at sidde",
+    "english": "to sit"
+  },
+  {
+    "danish": "seks",
+    "english": "six"
+  },
+  {
+    "danish": "seksten",
+    "english": "sixteen"
+  },
+  {
+    "danish": "tres",
+    "english": "sixty"
+  },
+  {
+    "danish": "(en) hud",
+    "english": "skin"
+  },
+  {
+    "danish": "en nederdel",
+    "english": "skirt"
+  },
+  {
+    "danish": "(en) himmel",
+    "english": "sky"
+  },
+  {
+    "danish": "at sove",
+    "english": "to sleep"
+  },
+  {
+    "danish": "langsom",
+    "english": "slow"
+  },
+  {
+    "danish": "lille",
+    "english": "small/little (singular)"
+  },
+  {
+    "danish": "små",
+    "english": "small/little (plural)"
+  },
+  {
+    "danish": "at lugte",
+    "english": "to smell"
+  },
+  {
+    "danish": "en lugt",
+    "english": "a smell"
+  },
+  {
+    "danish": "at smile",
+    "english": "to smile"
+  },
+  {
+    "danish": "et smil",
+    "english": "a smile"
+  },
+  {
+    "danish": "at sne",
+    "english": "to snow"
+  },
+  {
+    "danish": "(en) sne",
+    "english": "snow"
+  },
+  {
+    "danish": "snebe (n)",
+    "english": "soap"
+  },
+  {
+    "danish": "blød",
+    "english": "soft"
+  },
+  {
+    "danish": "jord",
+    "english": "soil/earth/land"
+  },
+  {
+    "danish": "en soldat",
+    "english": "a soldier"
+  },
+  {
+    "danish": "en søn",
+    "english": "a son"
+  },
+  {
+    "danish": "en sang",
+    "english": "a song"
+  },
+  {
+    "danish": "en lyd",
+    "english": "a sound"
+  },
+  {
+    "danish": "suppe (n)",
+    "english": "soup"
+  },
+  {
+    "danish": "syd",
+    "english": "south"
+  },
+  {
+    "danish": "det ydre rum",
+    "english": "space (outer space)"
+  },
+  {
+    "danish": "at tale",
+    "english": "to speak"
+  },
+  {
+    "danish": "at sige",
+    "english": "to say"
+  },
+  {
+    "danish": "en ske",
+    "english": "a spoon"
+  },
+  {
+    "danish": "en sport",
+    "english": "a sport"
+  },
+  {
+    "danish": "forår",
+    "english": "spring"
+  },
+  {
+    "danish": "firkant",
+    "english": "square"
+  },
+  {
+    "danish": "en plet",
+    "english": "a stain"
+  },
+  {
+    "danish": "at stå",
+    "english": "to stand"
+  },
+  {
+    "danish": "en stjerne",
+    "english": "a star"
+  },
+  {
+    "danish": "en sten",
+    "english": "a stone"
+  },
+  {
+    "danish": "at stoppe",
+    "english": "to stop"
+  },
+  {
+    "danish": "en butik",
+    "english": "a store/shop"
+  },
+  {
+    "danish": "lige",
+    "english": "straight"
+  },
+  {
+    "danish": "en gade",
+    "english": "a street"
+  },
+  {
+    "danish": "stærk",
+    "english": "strong"
+  },
+  {
+    "danish": "en student",
+    "english": "a student"
+  },
+  {
+    "danish": "(et) sukker",
+    "english": "sugar"
+  },
+  {
+    "danish": "et jakkesæt",
+    "english": "a suit"
+  },
+  {
+    "danish": "sommer",
+    "english": "summer"
+  },
+  {
+    "danish": "en sol",
+    "english": "a sun"
+  },
+  {
+    "danish": "søndag",
+    "english": "Sunday"
+  },
+  {
+    "danish": "(en) sved",
+    "english": "sweat"
+  },
+  {
+    "danish": "at svede",
+    "english": "to sweat"
+  },
+  {
+    "danish": "at svømme",
+    "english": "to swim"
+  },
+  {
+    "danish": "en t-shirt",
+    "english": "a t-shirt"
+  },
+  {
+    "danish": "et bord",
+    "english": "a table"
+  },
+  {
+    "danish": "høj",
+    "english": "tall"
+  },
+  {
+    "danish": "at smage",
+    "english": "to taste"
+  },
+  {
+    "danish": "en te",
+    "english": "a tea"
+  },
+  {
+    "danish": "at undervise",
+    "english": "to teach"
+  },
+  {
+    "danish": "en lærer",
+    "english": "a teacher"
+  },
+  {
+    "danish": "et hold",
+    "english": "a team"
+  },
+  {
+    "danish": "en tåre",
+    "english": "a tear (drop)"
+  },
+  {
+    "danish": "teknologi",
+    "english": "technology"
+  },
+  {
+    "danish": "en telefon",
+    "english": "a telephone"
+  },
+  {
+    "danish": "et fjernsyn",
+    "english": "a television"
+  },
+  {
+    "danish": "temperatur",
+    "english": "temperature"
+  },
+  {
+    "danish": "ti",
+    "english": "ten"
+  },
+  {
+    "danish": "teater (et)",
+    "english": "theater"
+  },
+  {
+    "danish": "de",
+    "english": "they"
+  },
+  {
+    "danish": "tyk",
+    "english": "thick"
+  },
+  {
+    "danish": "tynd",
+    "english": "thin"
+  },
+  {
+    "danish": "at tænke",
+    "english": "to think"
+  },
+  {
+    "danish": "tredje",
+    "english": "third"
+  },
+  {
+    "danish": "tretten",
+    "english": "thirteen"
+  },
+  {
+    "danish": "tredive",
+    "english": "thirty"
+  },
+  {
+    "danish": "tusind",
+    "english": "thousand"
+  },
+  {
+    "danish": "tre",
+    "english": "three"
+  },
+  {
+    "danish": "at kaste",
+    "english": "to throw"
+  },
+  {
+    "danish": "torsdag",
+    "english": "Thursday"
+  },
+  {
+    "danish": "en billet",
+    "english": "a ticket"
+  },
+  {
+    "danish": "tæt",
+    "english": "tight"
+  },
+  {
+    "danish": "tid (en)",
+    "english": "time (noun)"
+  },
+  {
+    "danish": "et dæk",
+    "english": "a tire"
+  },
+  {
+    "danish": "en tå",
+    "english": "a toe"
+  },
+  {
+    "danish": "en tunge",
+    "english": "a tongue"
+  },
+  {
+    "danish": "et værktøj",
+    "english": "a tool"
+  },
+  {
+    "danish": "en tand",
+    "english": "a tooth"
+  },
+  {
+    "danish": "top",
+    "english": "top"
+  },
+  {
+    "danish": "at røre",
+    "english": "to touch"
+  },
+  {
+    "danish": "et strejf",
+    "english": "a touch"
+  },
+  {
+    "danish": "en togstation",
+    "english": "a train station"
+  },
+  {
+    "danish": "transport (en)",
+    "english": "transportation"
+  },
+  {
+    "danish": "et træ",
+    "english": "a tree"
+  },
+  {
+    "danish": "en lastbil",
+    "english": "a truck"
+  },
+  {
+    "danish": "tirsdag",
+    "english": "Tuesday"
+  },
+  {
+    "danish": "at vende",
+    "english": "to turn"
+  },
+  {
+    "danish": "tolv",
+    "english": "twelve"
+  },
+  {
+    "danish": "tyve",
+    "english": "twenty"
+  },
+  {
+    "danish": "enogtyve",
+    "english": "twenty-one"
+  },
+  {
+    "danish": "toogtyve",
+    "english": "twenty-two"
+  },
+  {
+    "danish": "to",
+    "english": "two"
+  },
+  {
+    "danish": "grim",
+    "english": "ugly"
+  },
+  {
+    "danish": "et universitet",
+    "english": "a university"
+  },
+  {
+    "danish": "op",
+    "english": "up"
+  },
+  {
+    "danish": "en dal",
+    "english": "a valley"
+  },
+  {
+    "danish": "et verbum",
+    "english": "verb"
+  },
+  {
+    "danish": "et offer",
+    "english": "a victim"
+  },
+  {
+    "danish": "en stemme",
+    "english": "a vote"
+  },
+  {
+    "danish": "en stemme",
+    "english": "a voice"
+  },
+  {
+    "danish": "en vokal",
+    "english": "a vowel"
+  },
+  {
+    "danish": "en tjener",
+    "english": "a waiter"
+  },
+  {
+    "danish": "at vågne op",
+    "english": "to wake up"
+  },
+  {
+    "danish": "at gå",
+    "english": "to walk"
+  },
+  {
+    "danish": "en gåtur",
+    "english": "a walk"
+  },
+  {
+    "danish": "en væg",
+    "english": "a wall"
+  },
+  {
+    "danish": "en krig",
+    "english": "a war"
+  },
+  {
+    "danish": "varm",
+    "english": "warm (adjective)"
+  },
+  {
+    "danish": "at vaske",
+    "english": "to wash"
+  },
+  {
+    "danish": "at se",
+    "english": "to watch"
+  },
+  {
+    "danish": "et ur",
+    "english": "a watch"
+  },
+  {
+    "danish": "vand (et)",
+    "english": "water (noun)"
+  },
+  {
+    "danish": "en bølge",
+    "english": "a wave (ocean)"
+  },
+  {
+    "danish": "vi",
+    "english": "we"
+  },
+  {
+    "danish": "svag",
+    "english": "weak"
+  },
+  {
+    "danish": "at bære",
+    "english": "to wear"
+  },
+  {
+    "danish": "et bryllup",
+    "english": "a wedding"
+  },
+  {
+    "danish": "onsdag",
+    "english": "Wednesday"
+  },
+  {
+    "danish": "en uge",
+    "english": "a week"
+  },
+  {
+    "danish": "vægt",
+    "english": "weight"
+  },
+  {
+    "danish": "vest",
+    "english": "west"
+  },
+  {
+    "danish": "våd",
+    "english": "wet (adjective)"
+  },
+  {
+    "danish": "hvid",
+    "english": "white"
+  },
+  {
+    "danish": "slem",
+    "english": "wicked (bad)"
+  },
+  {
+    "danish": "bred",
+    "english": "wide"
+  },
+  {
+    "danish": "en kone",
+    "english": "a wife"
+  },
+  {
+    "danish": "at vinde",
+    "english": "to win"
+  },
+  {
+    "danish": "vind",
+    "english": "wind"
+  },
+  {
+    "danish": "en vindmølle",
+    "english": "a windmill"
+  },
+  {
+    "danish": "et vindue",
+    "english": "a window"
+  },
+  {
+    "danish": "(en) vin",
+    "english": "wine"
+  },
+  {
+    "danish": "en vinge",
+    "english": "a wing"
+  },
+  {
+    "danish": "vinter",
+    "english": "winter"
+  },
+  {
+    "danish": "træ (et)",
+    "english": "wood"
+  },
+  {
+    "danish": "at arbejde",
+    "english": "to work"
+  },
+  {
+    "danish": "arbejde (t)",
+    "english": "work (noun)"
+  },
+  {
+    "danish": "verden (en)",
+    "english": "world"
+  },
+  {
+    "danish": "at skrive",
+    "english": "to write"
+  },
+  {
+    "danish": "en gård",
+    "english": "a yard"
+  },
+  {
+    "danish": "(et) år",
+    "english": "year"
+  },
+  {
+    "danish": "gul",
+    "english": "yellow"
+  },
+  {
+    "danish": "ja",
+    "english": "yes"
+  },
+  {
+    "danish": "du",
+    "english": "you (singular)"
+  },
+  {
+    "danish": "de/I",
+    "english": "you (plural)"
+  },
+  {
+    "danish": "ung",
+    "english": "young"
+  },
+  {
+    "danish": "nul",
+    "english": "zero"
+  }
+]
