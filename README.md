@@ -1,2 +1,2 @@
 # Personal-Projects
-Various solo or team projects I have put together for fun.
+Various solo projects I have put together for fun.
